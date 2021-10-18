@@ -80,8 +80,8 @@ bulbasaur.attack(0, pikachu);
 // pikachu launched skill 'lightning' successfully!
 // bulbasaur got 40 damage
 -------------------
-// bulbasaur is killed!
+// bulbasaur is defeated!
 -------------------
-// bulbasaur is already dead!
+// bulbasaur is already defeated!
 // That's just one example. You can call different series of attacks to get different results!
 ```
